@@ -1,5 +1,9 @@
 #!/usr/bin/perl
 
+#This perl script copies data from one directory to another if the data arrived within the last 6 minutes.
+#To change the time, change $mintues 
+
+
 use strict;
 use warnings;
 

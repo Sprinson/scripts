@@ -9,7 +9,7 @@ use warnings;
 
 umask(001);
 my $origDir = “WHERE THE DATA IS YOU WANT TO COPY“;
-my $newDir = “WHERE YOU WANT TO COPY THE DATA TOO“;
+my $newDir = “WHERE YOU WANT TO COPY THE DATA TO“;
 my $minutes = "6";
 my $file;
 
